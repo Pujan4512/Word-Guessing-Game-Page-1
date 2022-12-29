@@ -5,5 +5,5 @@ function addUser(){
     localStorage.setItem("player1_name", player1_name);
     localStorage.setItem("player2_name", player2_name);
 
-    window.location = "http://127.0.0.1:5500/game_page.html";
+    window.location = "https://pujan4512.github.io/Word-Guessing-Game-Page-2/";
 }
